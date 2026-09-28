@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Career Compass: explore six careers in data and technology." />
+  <title>Career Compass | Data & Tech Careers</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <nav class="container">
+      <a class="brand" href="/">Career Compass</a>
+      <a href="#careers">Explore careers</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero container">
+      <div>
+        <p class="eyebrow">DATA + TECHNOLOGY</p>
+        <h1>Find a career path that matches how you like to solve problems.</h1>
+        <p class="hero-copy">
+          Explore six popular roles across analytics, data science, product, AI, and data infrastructure.
+        </p>
+        <a href="#careers" role="button">Browse the list</a>
+      </div>
+    </section>
+
+    <section id="careers" class="container section-space">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">CAREER LIST</p>
+          <h2>Six paths worth exploring</h2>
+        </div>
+        <p id="career-count" class="muted">Loading careers…</p>
+      </div>
+
+      <div id="career-grid" class="career-grid" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <footer class="container site-footer">
+    <small>Built for WEB103 Project 1 with Express, vanilla JavaScript, and PicoCSS.</small>
+  </footer>
+
+  <script src="/script.js" defer></script>
+</body>
+</html>

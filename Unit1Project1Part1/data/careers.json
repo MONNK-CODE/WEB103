@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "data-analyst",
+    "title": "Data Analyst",
+    "category": "Analytics",
+    "shortDescription": "Turn raw data into clear insights that help teams make better decisions.",
+    "description": "Data analysts collect, clean, explore, and visualize data to answer business questions. They often work closely with operations, marketing, finance, or product teams and communicate findings through dashboards, reports, and presentations.",
+    "skills": ["SQL", "Data visualization", "Statistics", "Communication"],
+    "tools": ["Excel", "SQL", "Python", "Tableau or Power BI"],
+    "bestFor": "People who enjoy investigating questions, finding patterns, and explaining what the numbers mean.",
+    "starterProject": "Build a dashboard that analyzes a public dataset and explains three actionable findings.",
+    "image": "/images/data-analyst.svg"
+  },
+  {
+    "slug": "business-intelligence-analyst",
+    "title": "Business Intelligence Analyst",
+    "category": "Business + Data",
+    "shortDescription": "Build dashboards and reporting systems that help organizations track performance.",
+    "description": "Business intelligence analysts organize company data into reports, dashboards, and key performance indicators. Their work helps leaders understand what is happening across the business and where performance is changing.",
+    "skills": ["SQL", "Dashboard design", "Business metrics", "Data storytelling"],
+    "tools": ["Power BI", "Tableau", "SQL", "Excel"],
+    "bestFor": "People who like combining business questions with visual reporting and structured analysis.",
+    "starterProject": "Create a sales performance dashboard with revenue, conversion, and regional trends.",
+    "image": "/images/bi-analyst.svg"
+  },
+  {
+    "slug": "product-analyst",
+    "title": "Product Analyst",
+    "category": "Product Analytics",
+    "shortDescription": "Use user behavior and product data to improve digital experiences.",
+    "description": "Product analysts study how people use apps and websites. They track metrics, investigate user behavior, evaluate experiments, and help product teams decide which features or experiences should be improved.",
+    "skills": ["SQL", "Experiment analysis", "Product metrics", "Communication"],
+    "tools": ["SQL", "Python", "Amplitude or Mixpanel", "Spreadsheets"],
+    "bestFor": "People who are curious about why users behave the way they do and how products can improve.",
+    "starterProject": "Analyze mock app usage data and recommend one product change based on retention or engagement.",
+    "image": "/images/product-analyst.svg"
+  },
+  {
+    "slug": "data-scientist",
+    "title": "Data Scientist",
+    "category": "Data Science",
+    "shortDescription": "Use statistics and machine learning to find patterns and build predictive models.",
+    "description": "Data scientists combine programming, statistics, and domain knowledge to solve complex problems with data. Their work may include experimentation, forecasting, classification, recommendation systems, and communicating model results.",
+    "skills": ["Python", "Statistics", "Machine learning", "Data cleaning"],
+    "tools": ["Python", "pandas", "scikit-learn", "Jupyter"],
+    "bestFor": "People who enjoy math, coding, experimentation, and solving open-ended problems.",
+    "starterProject": "Train and evaluate a model that predicts an outcome from a cleaned public dataset.",
+    "image": "/images/data-scientist.svg"
+  },
+  {
+    "slug": "machine-learning-engineer",
+    "title": "Machine Learning Engineer",
+    "category": "AI + Engineering",
+    "shortDescription": "Turn machine learning models into reliable software that can run at scale.",
+    "description": "Machine learning engineers focus on building, deploying, and maintaining systems that use machine learning. The role blends software engineering with model development and often includes APIs, data pipelines, testing, and production monitoring.",
+    "skills": ["Python", "Software engineering", "Machine learning", "APIs"],
+    "tools": ["Python", "PyTorch or TensorFlow", "Docker", "Cloud platforms"],
+    "bestFor": "People who like both machine learning and building production-quality software systems.",
+    "starterProject": "Deploy a trained model behind a small API and create a page that sends it sample inputs.",
+    "image": "/images/ml-engineer.svg"
+  },
+  {
+    "slug": "data-engineer",
+    "title": "Data Engineer",
+    "category": "Data Infrastructure",
+    "shortDescription": "Build the pipelines and systems that move, organize, and prepare data for others.",
+    "description": "Data engineers design systems that collect, transform, store, and deliver data. Their work makes reliable analysis possible by ensuring that data is available, organized, and ready for analysts, scientists, and applications.",
+    "skills": ["SQL", "Programming", "Databases", "Data pipelines"],
+    "tools": ["SQL", "Python", "PostgreSQL", "Cloud data tools"],
+    "bestFor": "People who enjoy backend systems, organization, automation, and making data reliable.",
+    "starterProject": "Build a small ETL pipeline that reads raw data, cleans it, and stores the result in a database.",
+    "image": "/images/data-engineer.svg"
+  }
+]

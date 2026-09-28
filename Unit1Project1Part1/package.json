@@ -1,0 +1,13 @@
+{
+  "name": "career-compass-listicle",
+  "version": "1.0.0",
+  "description": "WEB103 Project 1 listicle app built with Express, vanilla HTML/CSS/JS, and PicoCSS.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
