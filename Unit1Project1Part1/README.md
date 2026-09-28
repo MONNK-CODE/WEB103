@@ -35,10 +35,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='unit1project1part1.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='unit1project1part1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with https://ezgif.com/video-to-gif  Add GIF tool here
+GIF created with ...  Add GIF tool here
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
